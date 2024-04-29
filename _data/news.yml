@@ -11,6 +11,31 @@
 #  highlight: 1
 #  image: news_1.PNG
 
+
+- date: April 22, 2024
+  headline: >-
+    Zhiqin Chen receives both the 2024 Alain Fournier Award for the best Ph.D. dissertation and 2024 Eurographics PhD Award for Best PhD Thesis
+  text: >-
+    Congratulations to Zhiqin Chen for receiving both the 2024 <a href="https://graphicsinterface.org/awards/alain-fournier/">Alain Fournier Award</a> for the best Ph.D. dissertation in computer graphics in Canada and the 2024 <a href="https://www.eg.org/wp/eurographics-awards-programme/phd-award/">Eurographics PhD Award</a> for Best PhD Thesis.</p> <p>The <a href="https://graphicsinterface.org/awards/alain-fournier/">Alain Fournier Dissertation Award</a> is given annually for an outstanding doctoral dissertation completed at a Canadian university in the field of Computer Graphics. The award is named in honor of Alain Fournier, a Canadian researcher who did much to promote excellence, both within Canada and internationally, in the field of Computer Graphics.</p> <p><a href="https://www.eg.org/wp/eurographics-awards-programme/phd-award/">Eurographics PhD Award</a> aims to recognize good thesis work, to incentivize young researchers, and to offer them the opportunity to publish the state of the art section of their thesis as a STAR in the Computer Graphics Forum Journal. Eurographics annually grants three PhD thesis awards. They are jointly sponsored by Eurographics and the Computer Graphics Forum Journal.
+  highlight: 1
+  image: zhiqin_thesis_award.png
+  
+- date: April 22, 2024
+  headline: >-
+    Eurographics 2024: Spotlight on GruVi Lab
+  text: >-
+    Eurographics, the premier conference on computer graphics, will be held in <strong>Limassol, Cyprus</strong> this year (April 22-26, 2024). GrUVi lab will once again have a good show at Eurographics 2024, with:</p> <ul> <li><a href="https://hanhung.github.io/">Han-Hung Lee</a> (along with Manolis Savva and Angel X. Chang) presenting <a href="https://3dlg-hcvc.github.io/tt3dstar/">Text-to-3D Shape Generation STAR</a>.</li> <li><a href="https://czq142857.github.io/">Zhiqin Chen</a> receiving 2024 <a href="https://www.eg.org/wp/eurographics-awards-programme/phd-award/">Eurographics PhD Award</a> for Best PhD Thesis.</li> <li><a href="https://www.sfu.ca/~amahdavi/">Ali Mahdavi-Amiri</a> serving as the International Program Committee member.</li> </ul> <p>Congratulations!
+  highlight: 1
+  image: sfu_eg_2024.png
+
+- date: March 18, 2024
+  headline: >-
+    3DV 2024: Spotlight on GruVi Lab
+  text: >-
+    3D Vision (3DV), the premier conference on computer vision, will be held in-person in Davos, Switzerland on March 18-21, 2024. GrUVi lab will once again have a good show at 3DV 2024, with 2 technical papers. And Andrea Tagliasacchi will be serving as the program co-chair for the conference.</p> <p>Congratulations to all the authors! And here are the 2 accepted papers:</p> <p><a href="https://3dlg-hcvc.github.io/">Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects</a></p> <p><a href="https://3dlg-hcvc.github.io/OPDMulti/">OPDMulti: Openable Part Detection for Multiple Objects</a>
+  highlight: 1
+  image: sfu_3dv_2024.png
+
 - date: February 23, 2024
   headline: >-
     VCR workshop for AAAI 2024
@@ -48,7 +73,7 @@
     SIGGRAPH Asia 2023: Spotlight on GruVI Lab
   text: >-
     SIGGRAPG Asia, the premier conference on computer graphics, will be held in Sydney, Australia this year (Dec 12-15). GrUVi lab will once again have a good show at SIGGRAPG Asia, with 5 technical papers. Congratulations to all the authors!</p> <p>And here are the 5 accepted papers:</p> <p><a href="https://yaksoy.github.io/intrinsicCompositing/">Intrinsic Harmonization for Illumination-Aware Compositing</a></p> <p><a href="https://qiminchen.github.io/shaddr/">ShaDDR: Real-Time Example-Based Geometry and Texture Generation via 3D Shape Detailization and Differentiable Rendering</a></p> <p><a href="https://arxiv.org/abs/2306.08226">CLIPXPlore: Coupled CLIP and Shape Spaces for 3D Shape Exploration</a></p> <p><a href="https://github.com/Salingo/Interaction-Driven-Reconstruction">Interaction-Driven Active 3D Reconstruction with Object Interiors</a></p> <p><a href="https://vcc.tech/research/2023/TAPNet++">Neural Packing for Real: from Visual Sensing to Reinforcement Learning</a>
-  highlight: 1
+  highlight: 0
   image: SA23-Logo.png
 
 - date: November 6, 2023
@@ -56,7 +81,7 @@
     NeurIPS 2023: Spotlight on GruVi Lab
   text: >-
     NeurIPS, the premier conference on machine learning, will be held in <strong>New Orleans</strong> this year (Dec 10-16). GrUVi lab will once again have a good show at NeurIPS, with <a href="https://gruvi.ca/publications/">7 technical papers and 1 dataset and benchmarks paper</a>!</p> <p>Please refer to <a href="https://gruvi.ca/publications/">our publication page</a> to see more details.
-  highlight: 1
+  highlight: 0
   image: neurips_logo.jpg
 
 - date: November 3, 2023
@@ -64,7 +89,7 @@
     Talk by Dr. Taras Kucherenko from EA
   text: >-
     <a href="https://stream.sfu.ca/Media/Play/8e962f33c1474ad2ae7e94cf9c2901831d">Click this link to see the talk replay</a>.</p> <p><strong>Title</strong>: Co-speech gesture generation</p> <p><strong>Abstract</strong>: Gestures accompanying speech are essential to natural and efficient embodied human communication. The automatic generation of such co-speech gestures is a long-standing problem in computer animation. It is considered an enabling technology in film, games, virtual social spaces, and interaction with social robots. The problem is made challenging by the idiosyncratic and non-periodic nature of human co-speech gesture motion, and by the great diversity of communicative functions that gestures encompass. Gesture generation has seen surging interest recently, owing to the emergence of more and larger datasets of human gesture motion, combined with strides in deep-learning-based generative models that benefit from the growing availability of data. This talk will review co-speech gesture generation research development, focusing on deep generative models.</p> <p><strong>Bio</strong>: Dr. Taras Kucherenko is currently a Research Scientist at Electronic Arts. He finished a Ph.D. at the KTH Royal Institute of Technology in Stockholm in 2021. His research is on machine learning models for non-verbal behavior generation, such as hand gestures and facial expressions. For his research papers, he received ICMI 2020 Best Paper Award and IVA 2020 Best Paper Award. Taras was also the main organizer of The GENEA (Generation and Evaluation of Non-verbal Behavior for Embodied Agents) Workshop and Challenge in 2020, 2021, 2022, and 2023.
-  highlight: 1
+  highlight: 0
   image: vcrseminar.png
 
 - date: October 27, 2023
@@ -72,7 +97,7 @@
     Talk by Prof. Tat-Jun Chin from University of Adelaide
   text: >-
     <a href="https://stream.sfu.ca/Media/Play/81e9a38ce6b240338561d4ecbf1139101d">Click this link to see the talk replay</a>.</p> <p><strong>Title</strong>: Quantum Computing for Robust Fitting</p> <p><strong>Abstract</strong>: Many computer vision applications need to recover structure from imperfect measurements of the real world. The task is often solved by robustly fitting a geometric model onto noisy and outlier-contaminated data. However, relatively recent theoretical analyses indicate that many commonly used formulations of robust fitting in computer vision are not amenable to tractable solution and approximation. In this paper, we explore the usage of quantum computers for robust fitting. To do so, we examine the feasibility of two types of quantum computer technologies---universal gate quantum computers and quantum annealers---to solve robust fitting. Novel algorithms that are amenable to the quantum machines have been developed, and experimental results on current noisy intermediate scale quantum computers (NISQ) will be reported. Our work thus proposes one of the first quantum treatments of robust fitting for computer vision.</p> <p><strong>Bio</strong>: Tat-Jun (TJ) Chin is SmartSat CRC Professorial Chair of Sentient Satellites at The University of Adelaide. He received his PhD in Computer Systems Engineering from Monash University in 2007, which was partly supported by the Endeavour Australia-Asia Award, and a Bachelor in Mechatronics Engineering from Universiti Teknologi Malaysia in 2004, where he won the Vice Chancellor’s Award. TJ’s research interest lies in computer vision and machine learning for space applications. He has published close to 200 research articles, and has won several awards for his research, including a CVPR award (2015), a BMVC award (2018), Best of ECCV (2018), three DST Awards (2015, 2017, 2021), an IAPR Award (2019) and an RAL Best Paper Award (2021). TJ pioneered the AI4Space Workshop series and is an Associate Editor at the International Journal of Robotics Research (IJRR) and Journal of Mathematical Imaging and Vision (JMIV). He was a Finalist in the Academic of the Year Category at Australian Space Awards 2021.
-  highlight: 1
+  highlight: 0
   image: vcrseminar.png
 
 - date: October 20, 2023
@@ -80,7 +105,7 @@
     Talk by Prof. Leonid Sigal from UBC
   text: >-
     <a href="https://stream.sfu.ca/Media/Play/0377be26412347d5934fbf1675821edb1d">Click this link to see the talk replay</a>.</p> <p><strong>Title:</strong> Efficient, Less-biased and Creative Visual Learning</p> <p><strong>Abstract:</strong> In this talk I will discuss recent methods from my group that focus on addressing some of the core challenges of current visual and multi-modal cognition, including efficient learning, bias and user-controlled generation. Centering on these larger themes I will talk about a number of strategies (and corresponding papers) that we developed to address these challenges. I will start by discussing transfer learning techniques in the context of a semi-supervised object detection and segmentation, highlighting a model that is applicable to a range of supervision: from zero to a few instance-level samples per novel class. I will then talk about our recent work on building a foundational image representation model by combining two successful strategies of masking and sequential token prediction. I will also discuss some of our work on scene graph generation which, in addition to improving overall performance, allows for scalable inference and ability to control data bias (by trade off major improvements on rare classes for minor declines on most common classes). The talk will end with some of our recent work on generative modeling which focuses on novel-view synthesis and language-conditioned diffusion-based story generation. The core of the latter approach is visual memory that implicitly captures the actor and background context across the generated frames. Sentence-conditioned soft attention over the memories enables effective reference resolution and learns to maintain scene and actor consistency when needed.</p> <p><strong>Biography:</strong> Prof. Leonid Sigal is a Professor at the University of British Columbia (UBC). He was appointed CIFAR AI Chair at the Vector Institute in 2019 and an NSERC Tier 2 Canada Research Chair in Computer Vision and Machine Learning in 2018. Prior to this, he was a Senior Research Scientist, and a group lead, at Disney Research. He completed his Ph.D at Brown University in 2008; received his B.Sc. degrees in Computer Science and Mathematics from Boston University in 1999, his M.A. from Boston University in 1999, and his M.S. from Brown University in 2003. He was a Postdoctoral Researcher at the University of Toronto, between 2007-2009. Leonid’s research interests lie in the areas of computer vision, machine learning, and computer graphics; with the emphasis on approaches for visual and multi-modal representation learning, recognition, understanding and generative modeling. He has won a number of prestigious research awards, including Killam Accelerator Fellowship in 2021 and has published over 100 papers in venues such as CVPR, ICCV, ECCV, NeurIPS, ICLR, and Siggraph.
-  highlight: 1
+  highlight: 0
   image: vcrseminar.png
 
 - date: October 13, 2023
@@ -88,7 +113,7 @@
     Talk by Prof. Li Cheng from University of Alberta
   text: >-
     <a href="https://stream.sfu.ca/Media/Play/e1bf6d3177ed4f3288ad7ddde49f286a1d">Click this link to see the talk replay</a>.</p> <p><strong>Title</strong>: Visual Human Motion Analysis</p> <p><strong>Abstract</strong>: Recent advancement of imaging sensors and deep learning techniques has opened door to many interesting applications for visual analysis of human motions. In this talk, I will discuss our research efforts toward addressing the related tasks of 3-D human motion syntheses, pose and shape estimation from images and videos, visual action quality assessment. Looking forward, our results could be applied to everyday life scenarios such as natural user interface, AR/VR, robotics, and gaming, among others.</p> <p><strong>Bio</strong>: Li CHENG is a professor at the Department of Electrical and Computer Engineering, University of Alberta. He is associate editors of IEEE Trans. Multimedia and Pattern Recognition Journal. Prior to joining University of Alberta, He worked at A*STAR, Singapore, TTI-Chicago, USA, and NICTA, Australia. His current research interests are mainly on human motion analysis, mobile and robot vision, and machine learning. More details can be found a <a href="http://www.ece.ualberta.ca/~lcheng5/">http://www.ece.ualberta.ca/~lcheng5/</a>.
-  highlight: 1
+  highlight: 0
   image: vcrseminar.png
 
 - date: September 18, 2023
@@ -96,7 +121,7 @@
     ICCV 2023: Spotlight on GruVI Lab
   text: >-
     ICCV, the premier conference on computer vision, will be held in <strong>Paris</strong> this year (Oct 2-6). GrUVi lab will once again have a good show at ICCV, with <a href="https://gruvi.ca/publications/">6 technical papers</a>, 3 co-organized workshops! Also, Prof. Yasutaka Furukawa serves as a program chair for this year’s ICCV!</p> <p>For the workshops, Prof. Richard Zhang co-organizes the <strong><a href="https://3dv-in-ecommerce.github.io/">3D Vision and Modeling Challenges in eCommerce</a>,</strong> Prof. Angel Chang co-organizes the <strong><a href="https://languagefor3dscenes.github.io/ICCV2023/">3rd Workshop on Language for 3D Scenes</a></strong> and <strong><a href="https://iccv-clvl.github.io/2023/">CLVL: 5th Workshop on Closing the Loop between Vision and Language.</a></strong> Also, Prof. Manolis Savva will give a talk at the <strong><a href="https://opensun3d.github.io/">1st Workshop on Open-Vocabulary 3D Scene Understanding</a></strong></p> <p>And here are the 6 accepted papers:</p> <p><a href="https://3dlg-hcvc.github.io/multi3drefer/">Multi3DRefer: Grounding Text Description to Multiple 3D Objects</a></p> <p><a href="https://ds-fusion.github.io/">DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion</a></p> <p><a href="https://sked-paper.github.io/">SKED: Sketch-guided Text-based 3D Editing</a></p> <p><a href="https://3dlg-hcvc.github.io/paris/">PARIS: Part-level Reconstruction and Motion Analysis for Articulated Objects</a></p> <p><a href="https://arxiv.org/abs/2301.10460">HAL3D: Hierarchical Active Learning for Fine-Grained 3D Part Labeling</a></p> <p><a href="https://arxiv.org/abs/2212.00836">UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding</a></p> <p>Congrats for the authors!
-  highlight: 1
+  highlight: 0
   image: iccv23_logo.png
 
 - date: June 26, 2023
@@ -104,7 +129,7 @@
     Talk by Mikaela Uy from Stanford 
   text: >-
     The recording is available at this <a href="https://stream.sfu.ca/Media/Play/17d663a3fe654ee3a40d88adb85f456e1d">link</a>.</p> <p><strong>Title</strong>: Towards Controllable 3D Content Creation by leveraging Geometric Priors</p> <p><strong>Abstract</strong>: The growing popularity for extended realities pushes the demand for the automatic creation and synthesis of new 3D content that would otherwise be a tedious and laborious process. A key property needed to make 3D content creation useful is <strong>user controllability</strong> as it allows one to realize specific ideas. User-control can be of various forms, e.g. target scans, input images or programmatic edits etc. In this talk, I will be touching works that enable user-control through i) object parts and ii) sparse scene images by leveraging geometric priors. The former utilizes object semantic priors by proposing a novel shape space factorization through an introduced cross diffusion network that enabled multiple applications in both shape generation and editing. The latter leverages pretrained models of large 2D datasets for sparse view 3D NeRF reconstruction of scenes by learning a distribution of geometry represented as ambiguity-aware depth estimates. As an add-on, we will also briefly revisit the volume rendering equation in NeRFs and reformulate it to piecewise linear density that alleviates underlying issues caused by quadrature instability.</p> <p><strong>Bio:</strong> Mika is a fourth year PhD student at Stanford advised by Leo Guibas. Her research focuses on the representation and generation of objects/scenes for user-controllable 3D content creation. She was a research intern at Adobe, Autodesk and now, Google, and is generously supported by Apple AI/ML PhD Fellowship and Snap Research Fellowship.
-  highlight: 1
+  highlight: 0
   image: mikauy_talk.png
 
 - date: August 4, 2023
@@ -112,7 +137,7 @@
     A Trilogy of Character Animation Research in SIGGRAPH 2023
   text: >-
     We are proud to highlight that three of Prof. Jason Peng&#39;s research papers will be presented in the upcoming SIGGRAPH 2023. These papers mark advances in physics-based character animation.</p> <p>Below are titles and links to the related project pages:</p> <p>Learning Physically Simulated Tennis Skills from Broadcast Videos <a href="https://xbpeng.github.io/projects/Vid2Player3D/index.html">https://xbpeng.github.io/projects/Vid2Player3D/index.html</a></p> <p>Synthesizing Physical Character-Scene Interactions <a href="https://xbpeng.github.io/projects/InterPhys/index.html">https://xbpeng.github.io/projects/InterPhys/index.html</a></p> <p>CALM: Conditional Adversarial Latent Models for Directable Virtual Characters <a href="https://xbpeng.github.io/projects/CALM/index.html">https://xbpeng.github.io/projects/CALM/index.html</a></p> <p>Note: The SIGGRAPH conference, short for Special Interest Group on Computer GRAPHics and Interactive Techniques, is the world&#39;s premier annual event for showcasing the latest innovations in computer graphics and interactive techniques. It brings together researchers, artists, developers, filmmakers, scientists, and business professionals from around the globe. The conference offers a unique blend of educational sessions, hands-on workshops, and exhibitions of cutting-edge technology and applications.
-  highlight: 1
+  highlight: 0
   image: siggraph23_jason.jpg
 
 - date: June 14, 2023
@@ -120,7 +145,7 @@
     GrUVi making waves at CVPR 2023
   text: >-
     CVPR, the premier conference on computer vision, will be held in <strong>Vancouver</strong> this year (June 18-22). GrUVi lab will once again have an incredible show at CVPR, with <a href="https://gruvi.ca/publications/">12 technical papers</a>, 6 invited talks, 4 co-organized workshops!</p> <h1 id="conference-and-workshop-co-organization">Conference and workshop co-organization</h1> <p>Former GrUVi Professor Greg Mori serves as one of the four general conference chairs for the main CVPR conference!  Prof. Angel Chang, as one of the social activity chairs, is helping to organize the speed mentoring sessions.</p> <p>In addition, we have exciting workshops and challenges that are organized by GrUVi members as well:</p> <ul> <li><a href="https://cv4aec.github.io/">Computer Vision in the Built Environment workshop</a> - co-organized by Prof. Yasutaka Furukawa</li> <li><a href="https://struco3d.github.io/cvpr2023/index.html">Second Workshop on Structural and Compositional Learning on 3D Data</a> (Struco3D) - co-organized by Prof. Richard Zhang.</li> <li><a href="http://www.scan-net.org/cvpr2023workshop/">ScanNet Indoor Scene Understanding Challenge</a> - co-organized by Prof. Angel X. Chang and Prof. Manolis Savva</li> <li><a href="https://embodied-ai.org/">Embodied AI Workshop</a> featuring a variety of challenges including the <a href="http://multion-challenge.cs.sfu.ca/">Multi-Object Navigation (MultiON) challenge</a> (co-organized by Sonia Raychaudhuri, Angel Chang, and Manolis Savva)</li> </ul> <h1 id="workshop-talks">Workshop talks</h1> <p>Prof. Andrea Tagliasacchi is invited to give a keynote talk both in <a href="https://struco3d.github.io/cvpr2023/index.html">Struco3D</a> and <a href="https://generative-vision.github.io/workshop-CVPR-23/">Generative Models for Computer Vision</a> (both on June 18th). He also will give a spotlight at the <a href="https://sites.google.com/view/cvpr23-ac-workshop">Area Chair workshop</a> on Saturday. </p> <p>In the <a href="https://sites.google.com/view/wicvcvpr2023/program/panel">Women in Computer Vision</a><strong><strong>,</strong></strong> Prof. Angel Chang will be giving a talk on June 19th. She is also invited to give talks at workshops on <a href="https://sites.google.com/view/cvpr2023-3d-vision-robotics">3D Vision and Robotics</a> (June 18th),  <a href="https://3dcompat-dataset.org/workshop">Compositional 3D Vision</a> (June 18th), and <a href="https://asu-apg.github.io/odrum/">Open-Domain Reasoning Under Multi-Modal Settings</a> (June 19th).</p> <h1 id="technical-papers">Technical papers</h1> <p>Congratulations to all authors for the accepted papers! The full list of papers featured on CVPR 2023 can be accessed <a href="https://gruvi.ca/publications/">here</a>.
-  highlight: 1
+  highlight: 0
   image: gruvi_cvpr23.png
 
 - date: June 9, 2023

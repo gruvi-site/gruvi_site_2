@@ -1,5 +1,18 @@
 
 - title: >-
+    Text-to-3D Shape Generation STAR 
+  image: 2024-04-22_951b7e5b-aebc-4313-9633-3f84b4c852dc.png
+  authors: Han-Hung Lee, Manolis Savva, Angel X Chang
+  venue: >-
+    Eurographics 2024
+  year: 2024
+  highlight: 1
+  pdf: https://3dlg-hcvc.github.io/tt3dstar/
+  project_page: https://3dlg-hcvc.github.io/tt3dstar/
+
+
+
+- title: >-
     Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects
   image: 2024-03-18_6ba78a9f-244d-494e-b4e7-299a9dda8692.png
   authors: Qirui Wu, Daniel Ritchie, Manolis Savva, Angel X Chang
@@ -188,7 +201,7 @@
   image: 2023-10-28_739be168-bd35-43c7-927c-10be6c4196ef.jpg
   authors: Chris Careaga and Yağız Aksoy
   venue: >-
-    ACM Transactions on Graphics, Vol. 43, Issue 1, Article 12 (2023)
+    ACM Transactions on Graphics, Vol. 43, Issue 1, Article 12
   year: 2023
   highlight: 1
   pdf: https://yaksoy.github.io/papers/TOG23-Intrinsic.pdf
