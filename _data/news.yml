@@ -12,6 +12,23 @@
 #  image: news_1.PNG
 
 
+- date: June 17, 2024
+  headline: >-
+    CVPR 2024: Spotlight on GruVi Lab
+  text: >-
+    The <strong>IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)</strong>, the premier conference on computer vision, will be held in-person in Seattle, washington on June 17-21, 2024. GrUVi lab will once again have a good show at CVPR 2024, with 4 keynotes, 2 oral papers, 4 spotlights and 10 posters.</p> <p>For more details, please refer to <a href="https://docs.google.com/spreadsheets/d/1M34xrt5qJHuR8YOaMwHdB8h-QYOfhw_CmG72LMW37iI/edit?usp=sharing">SFU @ CVPR 2024 (Technical Participation)</a></p> <p>Congratulations!
+  highlight: 1
+  image: 24_cvpr_gruvi.png
+
+- date: June 13, 2024
+  headline: >-
+    Jason Peng receives the CHCCS/SCDHM Graphics Interface Early Career Researcher Award
+  text: >-
+    Congratulations to Jason Peng for receiving the <a href="https://graphicsinterface.org/awards/early-career-researcher-award/">CHCCS/SCDHM Graphics Interface Early Career Researcher Award</a>.</p> <p>The <em>CHCCS/SCDHM, Graphics Interface Early Career Researcher Award</em>, aims to recognize, support and encourage outstanding early career faculty members in the fields related to the Graphics Interface conference, which covers all aspects of graphics, human-computer interaction, and visualization. The award is given annually to up to two individuals and presented at the annual Graphics Interface conference.
+  highlight: 1
+  image: 24_jason.png
+
+
 - date: April 22, 2024
   headline: >-
     Zhiqin Chen receives both the 2024 Alain Fournier Award for the best Ph.D. dissertation and 2024 Eurographics PhD Award for Best PhD Thesis
