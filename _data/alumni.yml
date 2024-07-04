@@ -2,6 +2,15 @@
 #- graduation:
 #- text:
 
+- name: Hang Zhou
+  graduation: 2023
+  text: Gruvi Alumni
+  photo: hang_zhou.jpg
+  role: Postdoc
+  email:
+  website: https://ryanhangzhou.github.io/
+  number_educ: 0
+
 - name: Hanxiao Jiang (Shawn)
   graduation: 2023
   text: Ph.D. student at University of Illinois Urbana-Champaign (UIUC)
