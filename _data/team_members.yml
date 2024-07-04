@@ -168,11 +168,18 @@
 #   website: 
 #   number_educ: 0
 
-- name: Hang Zhou
-  photo: hang_zhou.jpg
+# - name: Hang Zhou
+#   photo: hang_zhou.jpg
+#   role: Postdoc
+#   email: 
+#   website: http://home.ustc.edu.cn/~zh2991/
+#   number_educ: 0
+
+- name: Sauradip Nag
+  photo: sauradip_nag.jpg
   role: Postdoc
   email: 
-  website: http://home.ustc.edu.cn/~zh2991/
+  website: https://sauradip.github.io/
   number_educ: 0
   
 - name: Yizhi Wang
