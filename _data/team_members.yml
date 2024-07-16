@@ -228,6 +228,13 @@
 
 ################################# Graduate Students  #################################
 
+- name: Yalda Foroutan
+  photo: yalda_foroutan.JPG
+  role: Graduate Student
+  email: yalda_foroutan@sfu.ca
+  website: https://youlenda.github.io/
+  number_educ: 0
+
 # - name: Mahsa Maleki Abyaneh
 #   photo: mahsa.jpg
 #   role: Graduate Student
