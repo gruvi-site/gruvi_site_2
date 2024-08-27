@@ -1,5 +1,357 @@
 
 - title: >-
+    R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding
+  image: 2024-09-29_20ea0ea9-bfe5-465f-ac7a-4e4423f5fc18.webp
+  authors: Qirui Wu, Sonia Raychaudhuri, Daniel Ritchie, Manolis Savva, Angel X. Chang
+  venue: >-
+    ECCV 2024
+  year: 2024
+  highlight: 1
+  pdf: https://arxiv.org/abs/2403.12301
+  project_page: https://3dlg-hcvc.github.io/r3ds/
+  video: https://youtu.be/waI3m7TuyNA
+
+
+
+- title: >-
+    Intrinsic Single-Image HDR Reconstruction
+  image: 2024-09-29_f5e85155-e234-4db6-a8ff-62ab0562cdb4.jpg
+  authors: Sebastian Dille, Chris Careaga, Yağız Aksoy
+  venue: >-
+    ECCV 2024
+  year: 2024
+  highlight: 1
+  pdf: https://yaksoy.github.io/intrinsicHDR/
+  project_page: https://yaksoy.github.io/intrinsicHDR/
+
+
+
+- title: >-
+    PointNeRF++: A multi-scale, point-based Neural Radiance Field
+  image: 2024-09-29_cb1a4dec-364b-4f0c-93a3-637df1003b8c.png
+  authors: Weiwei Sun, Eduard Trulls, Yang-Che Tseng, Sneha Sambandam, Gopal Sharma, Andrea Tagliasacchi, Kwang Moo Yi
+  venue: >-
+    ECCV 2024
+  year: 2024
+  highlight: 1
+  pdf: https://pointnerfpp.github.io/resources/paper.pdf
+  project_page: https://pointnerfpp.github.io
+
+
+
+- title: >-
+    Volumetric Rendering with Baked Quadrature Fields
+  image: 2024-09-29_3b948533-0704-49d1-8c48-8f31094e0ffe.png
+  authors: Gopal Sharma, Daniel Rebain, Kwang Moo Yi, Andrea Tagliasacchi
+  venue: >-
+    ECCV 2024
+  year: 2024
+  highlight: 1
+  pdf: https://quadraturefields.github.io/static/pdfs/paper.pdf
+  project_page: https://quadraturefields.github.io
+
+
+
+- title: >-
+    Lagrangian Hashing for Compressed Neural Field Representations
+  image: 2024-09-29_3f30a0c6-8893-440b-9b32-d7af4801d6b1.png
+  authors: Shrisudhan Govindarajan, Zeno Sambugaro, Ahan Shabhanov, Towaki Takikawa, Weiwei Sun, Daniel Rebain, Nicola Conci, Kwang Moo Yi, Andrea Tagliasacchi
+  venue: >-
+    ECCV 2024
+  year: 2024
+  highlight: 1
+  pdf: https://theialab.github.io/laghashes/resources/paper.pdf
+  project_page: https://theialab.github.io/laghashes/
+
+
+
+- title: >-
+    TC4D: Trajectory-Conditioned Text-to-4D Generation
+  image: 2024-09-29_9aaa39a4-7677-461a-99f2-cad72b6456ea.png
+  authors: Sherwin Bahmani, Xian Liu, Yifan Wang, Ivan Skorokhodov, Victor Rong, Ziwei Liu, Xihui Liu, Jeong Joon Park, Sergey Tulyakov, Gordon Wetzstein, Andrea Tagliasacchi, David B. Lindell
+  venue: >-
+    ECCV 2024
+  year: 2024
+  highlight: 1
+  pdf: https://arxiv.org/pdf/2403.17920
+  project_page: https://sherwinbahmani.github.io/tc4d/
+
+
+
+- title: >-
+    SweepNet: Unsupervised Learning Shape Abstraction via Neural Sweepers
+  image: 2024-09-29_d1cb0fa9-86a7-497d-8cad-2779b3adc4ed.gif
+  authors: Mingrui Zhao, Yizhi Wang, Fenggen Yu, Changqing Zou, Ali Mahdavi-Amiri
+  venue: >-
+    ECCV 2024
+  year: 2024
+  highlight: 1
+  pdf: https://arxiv.org/abs/2407.06305
+  project_page: https://mingrui-zhao.github.io/SweepNet/
+
+
+
+- title: >-
+    Generating Human Interaction Motions in Scenes with Text Control
+  image: 2024-09-29_ee6966d8-e673-41c5-a1d8-28740424aee9.png
+  authors: Hongwei Yi, Justus Thies, Michael J. Black, Xue Bin Peng, Davis Rempe
+
+
+  venue: >-
+    ECCV 2024
+  year: 2024
+  highlight: 1
+  pdf: https://xbpeng.github.io/projects/TeSMo/TeSMo_2024.pdf
+  project_page: https://xbpeng.github.io/projects/TeSMo/index.html
+  video: https://www.youtube.com/watch?v=_3e5LRh9jVc&ab_channel=hongweiyi
+
+
+
+- title: >-
+    DECOLLAGE: 3D Detailization by Controllable,Localized, and Learned Geometry Enhancement
+  image: 2024-09-29_4f14dee5-29c9-40e9-b342-4d389e8f6a8c.png
+  authors: Qimin Chen, Zhiqin Chen, Vladimir G. Kim, Noam Aigerman, Hao Zhang, Siddhartha Chaudhuri
+  venue: >-
+    ECCV 2024
+  year: 2024
+  highlight: 1
+  pdf: https://qiminchen.github.io/decollage/
+  project_page: https://qiminchen.github.io/decollage/
+
+
+
+- title: >-
+    DAE-Net: Deforming Auto-Encoder for fine-grained shape co-segmentation
+  image: 2024-07-29_e62454db-4641-4a35-8338-7897173c714d.jpg
+  authors: Zhiqin Chen, Qimin Chen, Hang Zhou, Hao Zhang
+  venue: >-
+    SIGGRAPH 2024
+  year: 2024
+  highlight: 1
+  pdf: https://github.com/czq142857/DAE-Net
+  project_page: https://github.com/czq142857/DAE-Net
+
+
+
+- title: >-
+    Scale-Invariant Monocular Depth Estimation via SSI Depth
+  image: 2024-07-29_43f3383e-fb83-4f9f-a4fc-c5c9126c4032.jpg
+  authors: S. Mahdi H. Miangoleh, Mahesh Reddy, Yağız Aksoy
+  venue: >-
+    SIGGRAPH 2024
+  year: 2024
+  highlight: 1
+  pdf: yaksoy.github.io/papers/SIG24-SI-Depth.pdf
+  project_page: Scale-Invariant Monocular Depth Estimation via SSI Depth – Yağız Aksoy (yaksoy.github.io)
+
+
+
+- title: >-
+    BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry
+  image: 2024-07-28_e0c34b56-2086-4010-bed1-a468b37a9890.jpg
+  authors: Xiang Xu, Joseph G. Lambourne, Pradeep Kumar Jayaraman, Zhengqing Wang, Karl D.D. Willis, Yasutaka Furukawa
+  venue: >-
+    SIGGRAPH 2024
+  year: 2024
+  highlight: 1
+  pdf: https://arxiv.org/abs/2401.15563
+  project_page: https://github.com/samxuxiang/BrepGen
+
+
+
+- title: >-
+    Interactive Character Control with Auto-Regressive Motion Diffusion Models
+  image: 2024-07-28_14b7e948-934b-444a-9150-5902e5708997.png
+  authors: Yi Shi, Jingbo Wang, Xuekun Jiang, Bingkun Lin, Bo Dai, Xue Bin Peng
+  venue: >-
+    SIGGRAPH 2024
+  year: 2024
+  highlight: 1
+  pdf: https://xbpeng.github.io/projects/AMDM/AMDM_2024.pdf
+  project_page: https://xbpeng.github.io/projects/AMDM/index.html
+  video: https://www.youtube.com/watch?v=5WE9hy0xCI4&ab_channel=YISHI
+
+
+
+- title: >-
+    SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation
+  image: 2024-07-28_4836c8b7-6d31-4d53-971e-926946372df4.png
+  authors: Jordan Juravsky, Yunrong Guo, Sanja Fidler, Xue Bin Peng
+  venue: >-
+    SIGGRAPH 2024
+  year: 2024
+  highlight: 1
+  pdf: https://xbpeng.github.io/projects/SuperPADL/SuperPADL_2024.pdf
+  project_page: https://xbpeng.github.io/projects/SuperPADL/index.html
+  video: https://www.youtube.com/watch?v=0yXTX0FLXaE&embeds_referring_euri=https%3A%2F%2Fxbpeng.github.io%2F&source_ve_path=Mjg2NjY
+
+
+
+- title: >-
+    Flexible Motion In-betweening with Diffusion Models
+  image: 2024-07-28_6db0bfdb-c3e5-452b-af2c-fed16ac5e9ec.png
+  authors: Setareh Cohan, Guy Tevet, Daniele Reda, Xue Bin Peng, Michiel van de Panne
+
+
+  venue: >-
+    SIGGRAPH 2024
+  year: 2024
+  highlight: 1
+  pdf: https://xbpeng.github.io/projects/CondMDI/CondMDI_2024.pdf
+  project_page: https://xbpeng.github.io/projects/CondMDI/index.html
+  video: https://www.youtube.com/watch?v=rRgeOXOVzGQ&ab_channel=SetarehCohan
+
+
+
+- title: >-
+    Neural Fields as Distributions: Signal Processing Beyond Euclidean Space
+  image: 2024-07-22_f7d57491-6c51-485c-8069-972ec9d3a8cf.png
+  authors: Daniel Rebain, Soroosh Yazdani, Kwang Moo Yi, Andrea Tagliasacchi
+  venue: >-
+    CVPR 2024
+  year: 2024
+  highlight: 1
+  pdf: https://drive.google.com/file/d/14r6oEWZUkXOEO0dnTTpb8gjtpmIc1f1p/view?usp=sharing
+  project_page: https://ubc-vision.github.io/nfd/
+
+
+
+- title: >-
+    Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields
+  image: 2024-07-22_5c4bb6dc-8a2b-4ba0-a9b2-186e7066f7e5.png
+  authors: Lily Goli, Cody Reading, Silvia Sellan, Alec Jacobson, Andrea Tagliasacchi
+  venue: >-
+    CVPR 2024
+  year: 2024
+  highlight: 1
+  pdf: https://github.com/BayesRays/bayesrays.github.io/raw/main/BayesRays.pdf
+  project_page: https://bayesrays.github.io
+
+
+
+- title: >-
+    Accelerating Neural Field Training via Soft Mining
+  image: 2024-07-22_dc72a115-9111-4c0a-8dcb-777868c07d09.png
+  authors: Shakiba Kheradmand, Daniel Rebain, Gopal Sharma, Hossam Isack, Abhishek Kar, Andrea Tagliasacchi, Kwang Moo Yi
+  venue: >-
+    CVPR 2024
+  year: 2024
+  highlight: 1
+  pdf: https://arxiv.org/pdf/2312.00075
+  project_page: https://ubc-vision.github.io/nf-soft-mining/
+
+
+
+- title: >-
+    Unsupervised Keypoints from Pretrained Diffusion Models
+  image: 2024-07-22_4f8c1c58-b6c1-4a8f-9bd7-a72ffa3d30b6.png
+  authors: Eric Hedlin, Gopal Sharma, Shweta Mahajan, Hossam Isack, Abhishek Kar, Helge Rhodin, Andrea Tagliasacchi, Kwang Moo Yi
+  venue: >-
+    CVPR 2024
+  year: 2024
+  highlight: 1
+  pdf: https://arxiv.org/pdf/2312.00065
+  project_page: https://ubc-vision.github.io/StableKeypoints/
+
+
+
+- title: >-
+    BANF: Band-limited Neural Fields for Levels of Detail Reconstruction
+  image: 2024-07-22_0ebb847f-958b-4f88-93d6-321b31322c16.png
+  authors: Ahan Shabanov, Shrisudhan Govindarajan, Cody Reading, Daniel Rebain, Kwang Moo Yi, Andrea Tagliasacchi
+  venue: >-
+    CVPR 2024
+  year: 2024
+  highlight: 1
+  pdf: https://arxiv.org/pdf/2404.13024
+  project_page: https://theialab.github.io/banf/
+
+
+
+- title: >-
+    pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction
+  image: 2024-07-22_3aa2f28b-15da-4a3b-ac5d-cb52a153b3f2.png
+  authors: David Charatan, Sizhe Li, Andrea Tagliasacchi, Vincent Sitzmann
+  venue: >-
+    CVPR 2024
+  year: 2024
+  highlight: 1
+  pdf: https://arxiv.org/pdf/2312.12337
+  project_page: https://davidcharatan.com/pixelsplat/
+
+
+
+- title: >-
+    4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling
+  image: 2024-07-22_da144cba-bbda-4cf4-96f8-9d5d8b8165df.png
+  authors: Sherwin Bahmani, Ivan Skorokhodov, Victor Rong, Gordon Wetzstein, Leonidas Guibas, Peter Wonka, Sergey Tulyakov, Jeong Joon Park, Andrea Tagliasacchi, David Lindell
+  venue: >-
+    CVPR 2024
+  year: 2024
+  highlight: 1
+  pdf: https://arxiv.org/pdf/2311.17984
+  project_page: https://sherwinbahmani.github.io/4dfy/
+
+
+
+- title: >-
+    CAGE: Controllable Articulation GEneration
+  image: 2024-07-22_361106eb-cb44-4889-9139-c7fb690a0d46.png
+  authors: Jiayi Liu, Hou In Ivan Tam, Ali Mahdavi-Amiri, Manolis Savva
+  venue: >-
+    CVPR 2024
+  year: 2024
+  highlight: 1
+  pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_CAGE_Controllable_Articulation_GEneration_CVPR_2024_paper.pdf
+  project_page: https://3dlg-hcvc.github.io/cage/
+  video: https://www.youtube.com/watch?v=cH_rbKbyTpE
+
+
+
+- title: >-
+    Slice3D: Multi-Slice, Occlusion-Revealing, Single View 3D Reconstruction
+  image: 2024-06-22_b914f52c-9b8a-4676-813f-832639e87b28.png
+  authors: Yizhi Wang, Wallace Lira, Wenqi Wang, Ali Mahdavi-Amiri, Hao Zhang
+  venue: >-
+    CVPR 2024
+  year: 2024
+  highlight: 1
+  pdf: https://arxiv.org/abs/2312.02221
+  project_page: https://yizhiwang96.github.io/Slice3D/
+
+
+
+- title: >-
+    PAPR in Motion: Seamless Point-level 3D Scene Interpolation
+  image: 2024-06-22_e7fa23b8-059d-40d0-96fb-6329b650fbe7.png
+  authors: Shichong Peng, Yanshu Zhang, Ke Li
+  venue: >-
+    CVPR 2024
+  year: 2024
+  highlight: 1
+  pdf: https://arxiv.org/abs/2406.05533
+  project_page: https://niopeng.github.io/PAPR-in-Motion/
+  video: https://youtu.be/vysmn3TN4FY
+
+
+
+- title: >-
+    Trajeglish: Traffic Modeling as Next-Token Prediction
+  image: 2024-05-07_9442ced9-0049-482f-ab4e-d8f31f56e64b.png
+  authors: Jonah Philion, Xue Bin Peng, Sanja Fidler
+
+
+  venue: >-
+    ICLR 2024
+  year: 2024
+  highlight: 1
+  pdf: https://xbpeng.github.io/projects/Trajeglish/Trajeglish_2024.pdf
+  project_page: https://xbpeng.github.io/projects/Trajeglish/index.html
+  video: https://www.youtube.com/watch?v=Bk1v_Qct3i8&embeds_referring_euri=https%3A%2F%2Fxbpeng.github.io%2F&source_ve_path=Mjg2NjY
+
+
+
+- title: >-
     Text-to-3D Shape Generation STAR 
   image: 2024-04-22_951b7e5b-aebc-4313-9633-3f84b4c852dc.png
   authors: Han-Hung Lee, Manolis Savva, Angel X Chang
