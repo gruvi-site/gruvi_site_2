@@ -1,3 +1,6 @@
+# OBSOLETE
+This repo / gh-page is archived and will only redict 'gruvi.ca' to the main site 'gruvi.cs.sfu.ca'.
+
 # GrUVi website
 
 We are an inter-disciplinary team of researchers exploring and developing novel methods in computer graphics, computer vision, and interactive techniques. Current areas of focus include geometric modelling and processing, image-based modelling, 3D reconstruction, 3D content creation, shape analysis, lighting and reflectance models, and 3D vision for robotics.
@@ -26,7 +29,8 @@ Code is a Copyright of Allan Lab. Code released under the MIT License.
 
 # Usage
 
-There is two repos for the gruvi site. The currently **active** one is **gruvilab.github.io** (which is gruvi.ca). The old one is gruvi_site (which is gruvi.cs.sfu.ca). When we run the script to sync the update to the active website, the script also push the update to the old site to keep the content the same.
+The main website is https://gruvi.cs.sfu.ca/, and the github repo for it is https://github.com/gruvilab/gruvi_site. We have an additional domain name: https://gruvi.ca and we currently set it to redirect to the main site.
+~~There is two repos for the gruvi site. The currently **active** one is **gruvilab.github.io** (which is gruvi.ca). The old one is gruvi_site (which is gruvi.cs.sfu.ca). When we run the script to sync the update to the active website, the script also push the update to the old site to keep the content the same.~~
 The textural data is stored in _data folder and images in images folder.
 
 To build the website locally for faster iteration (github auto CI's speed is slow due to heavy upload), you can use jekyll-docker. After you pulled the jekyll docker image, you can just run `bash docker_build.sh` in the `scripts` folder to build the website and view the built site in `_site` folder. More information about jekyll-docker can be found [here](https://github.com/envygeeks/jekyll-docker/blob/master/README.md)
